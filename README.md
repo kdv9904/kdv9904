@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on [real time Challenging Problem Project](https://github.com/kdv9904/job-portal)
 
-- 🤝 I’m looking for help with [Ecommerce Project](https://github.com/kdv9904/grocery-app)
-
 - 👨‍💻 All of my projects are available at [https://kirtan-portfolio.bytexl.live/](https://kirtan-portfolio.bytexl.live/)
 
 - 💬 Ask me about **React, Java, Express, MongoDB, Nodejs, DSA**

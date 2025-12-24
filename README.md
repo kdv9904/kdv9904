@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdv9904" alt="kdv9904" /></a> </p>
 
-- 🔭 I’m currently working on [Edunexa]((https://edunexa-1-mad5.onrender.com/))
+- 🔭 I’m currently working on [Edunexa](https://edunexa-1-mad5.onrender.com/)
 
 - 🌱 I’m currently learning **MERN Stack Development**
 

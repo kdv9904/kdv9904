@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdv9904" alt="kdv9904" /></a> </p>
 
-- 🔭 I’m currently working on [Talent-talk](http://talent-talk-pro.vercel.app)
+- 🔭 I’m currently working on [GantavyaSetu](https://gantavyasetu.vercel.app/)
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
